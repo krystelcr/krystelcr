@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Krystel Carrera Reyes
+I'm an aspiring Data Scientist currently building my skills through the The Knowledge House fellowship. I’m excited to apply my growing knowledge to real-world problems and continuously expand my knowledge.
 
-<!--
-**krystelcr/krystelcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Programming Languages: Python
+- Data Manipulation: Pandas
+- Scripting Languages: HTML, CSS
+- Data Visualization: Matplotlib, Seaborn
+- Statistical Analysis: Basic statistical techniques
 
-Here are some ideas to get you started:
+## Will Learn
+- Databases: SQL
+- Data Visualization: Tableau
+- Statistical Analysis: Advanced statistical techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+Email: [krystel0606@gmail.com]
