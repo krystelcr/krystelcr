@@ -14,4 +14,4 @@ I'm an aspiring Data Scientist currently building my skills through the The Know
 ✧ Statistical Analysis: Advanced statistical techniques </br>
 
 ## ⟢ Contact Me
-Email: [krystel0606@gmail.com]
+Email: krystel0606@gmail.com
