@@ -6,7 +6,7 @@ I'm an aspiring Data Scientist currently building my skills through the The Know
 ✧ Data Manipulation: Pandas </br>
 ✶ Scripting Languages: HTML, CSS </br>
 ✧ Data Visualization: Matplotlib, Seaborn </br>
-✶ Statistical Analysis: Basic statistical techniques </br>
+✶ Statistical Analysis: Descriptive statistics </br>
 
 ## ✎ Will Learn
 ✧ Databases: SQL </br>
